@@ -1,3 +1,5 @@
+**[download the deck here](https://github.com/stueja/lpic-1-102-500-anki-flashcards/raw/master/LPIC-1-102-500.apkg)**
+
 # lpic-1-102-500-anki-flashcards
  Deck of Anki flashcards for the LPIC-1 (Linux System Administrator), exam 102-500 of the Linux Professional Institute (LPI).
 
@@ -9,7 +11,7 @@
 [LPIC-1 Anki Flashcards](https://github.com/stueja/lpic-1-102-500-anki-flashcards/) contains a deck of flashcards for use with the [Anki](http://apps.ankiweb.net/) flashcard system. The deck of flashcards helps to prepare for the [Linux Professional Institute (LPI)](https://www.lpi.org/) [LPIC-1](http://www.lpi.org/our-certifications/lpic-1-overview) (Linux System Administrator) exam, which consists of two exams: 101 and 102. To become LPIC-1 certified, you must pass both, the 101 and 102 exams. 
  
 For a set for LPIC-1-10**1**-500, look in jonasjacek's repository:
-[Download the LPIC-1 flashcards for Anki here.](https://github.com/jonasjacek/lpic-1-anki-flashcards/raw/master/LPIC-1.apkg)
+[Download jonasjacek's LPIC-1 flashcards for Anki here.](https://github.com/jonasjacek/lpic-1-anki-flashcards/raw/master/LPIC-1.apkg)
 
 Since jonasjacek's project seems to have stalled, here is my take on a set of questions for exam 102 of LPIC-1.
 
