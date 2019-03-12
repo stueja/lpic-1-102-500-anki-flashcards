@@ -64,7 +64,7 @@ The [Anki](http://apps.ankiweb.net/) flashcard system is available for:
 Anki is also available as a [Web Application](https://apps.ankiweb.net/).
 
 ## Warranty and Liability
-[LPIC-1 Anki Flashcards](https://github.com/stueja/lpic-1-102-500-anki-flashcards) is a small, private project. The author makes absolutely no claims and representations to warranties regarding the accuracy or completeness of the information provided. However, you can use the information in this repository AT YOUR OWN RISK.
+[LPIC-1-102-500 Anki Flashcards](https://github.com/stueja/lpic-1-102-500-anki-flashcards) is a small, private project. The author makes absolutely no claims and representations to warranties regarding the accuracy or completeness of the information provided. However, you can use the information in this repository AT YOUR OWN RISK.
 
 
 ## Contribute
