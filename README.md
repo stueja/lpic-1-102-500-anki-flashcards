@@ -25,10 +25,10 @@ The file `LPIC-1-102-500.apkg` contains the deck with all flashcards (including 
 Property | Value
 ------------ | -------------
 Language | English
-Number of cards | 226
+Number of cards | 258
 Number of images | 0
 Completed exam 101 topics | none. Have a look at jonasjacek's repository.
-Completed exam 102 topics | 105.1, 105.2, 106.1
+Completed exam 102 topics | 105.1, 105.2, 106.1, 107.1
 
 ## Topics
 
@@ -39,12 +39,12 @@ The deck contains detailed questions with concise answers (no multiple choice). 
 
 Topics and sub-topics are tagged according to the LPIC-1 exam 102 outline.
 
-- 105 - Shells and Shell Scripting 
+- 105 - Shells and Shell Scripting  
   <sup>**See tags:** 105.1, 105.2</sup>
 - 106 - Interfaces and Desktops  
   <sup>**See tags:** 106.1, 106.2</sup>
 - 107 - Administrative Tasks  
-  <sup>**See tags:** work in progress</sup>
+  <sup>**See tags:** 107.1</sup>
 - 108 - Essential System Services  
   <sup>**See tags:** work in progress</sup>
 - 109 - Networking Fundamentals  
