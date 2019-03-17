@@ -25,7 +25,7 @@ The file `LPIC-1-102-500.apkg` contains the deck with all flashcards (including 
 Property | Value
 ------------ | -------------
 Language | English
-Number of cards | 418
+Number of cards | 427
 Number of images | 0
 Completed exam 101 topics | none. Have a look at jonasjacek's repository.
 Completed exam 102 topics | 105.1, 105.2, 106.1, 106.2, 107.1, 107.2, 107.3, 108.1
