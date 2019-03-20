@@ -25,10 +25,10 @@ The file `LPIC-1-102-500.apkg` contains the deck with all flashcards (including 
 Property | Value
 ------------ | -------------
 Language | English
-Number of cards | 594
+Number of cards | 604 
 Number of images | 0
 Completed exam 101 topics | none. Have a look at jonasjacek's repository.
-Completed exam 102 topics | 105.1, 105.2, 106.1, 106.2, 107.1, 107.2, 107.3, 108.1, 108.2, 108.3, 108.4, 109.1, 109.2, 109.3, 109.4, 110.1
+Completed exam 102 topics | 105.1, 105.2, 106.1, 106.2, 107.1, 107.2, 107.3, 108.1, 108.2, 108.3, 108.4, 109.1, 109.2, 109.3, 109.4, 110.1, 110.2
 
 ## Topics
 
@@ -50,7 +50,7 @@ Topics and sub-topics are tagged according to the LPIC-1 exam 102 outline.
 - 109 - Networking Fundamentals  
   <sup>**See tags:** 109.1, 109.2, 109.3, 109.4</sup>
 - 110 - Security  
-  <sup>**See tags:** 110.1, work in progress</sup>
+  <sup>**See tags:** 110.1, 110.2, work in progress</sup>
 
 ## Get Anki
 
