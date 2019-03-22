@@ -37,7 +37,7 @@ The deck contains detailed questions with concise answers (no multiple choice). 
 
 ### LPIC-1 Exam 102 Topics (work in progress)
 
-Topics and sub-topics are tagged according to the LPIC-1 exam 102 outline.
+Topics and sub-topics are tagged according to the LPIC-1 exam 102 outline. Additionally, every question is tagged with the topic's weighting according to LPI.
 
 - 105 - Shells and Shell Scripting  
   <sup>**See tags:** 105.1, 105.2</sup>
