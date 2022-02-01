@@ -16,9 +16,14 @@ For a set for LPIC-1-10**1**-500, look in jonasjacek's repository:
 Since jonasjacek's project seems to have stalled, here is my take on a set of questions for exam 102 of LPIC-1.
 
 ## Get the Deck of Flashcards
+
 ### Download Deck from GitHub
+
 The file `LPIC-1-102-500.apkg` contains the deck with all flashcards (including media) in the Anki deck format with the `.apkg` file extension. You can **[download the deck here](https://github.com/stueja/lpic-1-102-500-anki-flashcards/raw/master/LPIC-1-102-500.apkg)**. The `LPIC-1-102-500.apkg` file can be imported into Anki.
 
+### Import CrowdAnki-JSON for Collaborative Development 
+
+Follow any [of CrowdAnki's `Import` workflows](https://github.com/Stvad/CrowdAnki/#import).
 
 ## Overview
 
